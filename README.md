@@ -15,11 +15,11 @@
 <div align="left">
 
  
- 🔭 I’m currently working on **a Secret Project**
+• 🔭 I’m currently working on **a Secret Project**
  
- 🌱 I’m currently learning Docker
+• 🌱 I’m currently learning Docker
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/alexbytesback/alexbytesback/issues)**
+•💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/alexbytesback/alexbytesback/issues)**
 
 ⚡ Fun fact: **The first AI-generated artwork sold for over $400,000 at auction!**
 
@@ -77,15 +77,13 @@
 </div>
 
 <hr/>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You!+❤️;" />
+</h1>
+
 
 <div align="center">
 <a href='#' target='_blank'><img height='64' style='border:0px;height:64px;' src= "https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prashantkoirala" /></a>
 </div>
-
-<br/>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You!+❤️;+For+Visiting+My+Profile!;" />
-</h1>
-
 
 
