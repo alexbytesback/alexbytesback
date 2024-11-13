@@ -15,9 +15,9 @@
 <div align="left">
 
  
-• 🔭 I’m currently working on **Semicolon**
+• 🔭 I’m currently working on **a Web Project**
  
-• 🌱 I’m currently learning Docker
+• 🌱 I’m currently learning **Postgres**
 
 •💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/alexbytesback/alexbytesback/issues)**
 
