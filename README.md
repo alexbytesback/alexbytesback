@@ -1,5 +1,4 @@
 
-![Header](https://github.com/alexbytesback/alexbytesback/blob/main/header%20final.png?raw=true)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1600">
 
@@ -8,7 +7,7 @@
 </h1>
 
 
-<h3 align="center">AI Engineer | Tech Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Web Developer | Tech Enthusiast | Lifelong Learner</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexbytesback&label=Profile%20views&color=0e75b6&style=flat" alt="alexbytesback" /> </p>
 <img align="right" height="150" src="https://i.giphy.com/zMukICnMEZmSf8zvXd.webp"  />
 
