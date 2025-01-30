@@ -8,7 +8,7 @@
 
 
 <h3 align="center">Web Developer | AI/ML Enthusiast | Lifelong Learner</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexbytesback&label=Profile%20views&color=0e75b6&style=flat" alt="alexbytesback" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkoirala465&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkoirala465" /> </p>
 <img align="right" height="150" src="https://i.giphy.com/zMukICnMEZmSf8zvXd.webp"  />
 
 <div align="left">
@@ -18,7 +18,7 @@
  
 • 🌱 I’m currently learning **Postgres**
 
-•💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/alexbytesback/alexbytesback/issues)**
+•💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/prashantkoirala465/prashantkoirala465/issues)**
 
 ⚡ Fun fact: **The first AI-generated artwork sold for over $400,000 at auction!**
 
@@ -54,11 +54,11 @@
 <h3 align="center">📊My Stats 📊</h3>
 <br>
 <div align=center>
-  <img width=290 src="https://github-readme-stats.vercel.app/api/top-langs?username=alexbytesback&show_icons=true&locale=en&layout=compact&border_radius=10&theme=tokyonight" alt="alexbytesback" />
+  <img width=290 src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantkoirala465&show_icons=true&locale=en&layout=compact&border_radius=10&theme=tokyonight" alt="prashantkoirala465" />
     
-  <img width=380 src="https://github-readme-stats.vercel.app/api?username=alexbytesback&show_icons=true&locale=en&border_radius=10&theme=tokyonight" />
+  <img width=380 src="https://github-readme-stats.vercel.app/api?username=prashantkoirala465&show_icons=true&locale=en&border_radius=10&theme=tokyonight" />
   <br/>
-  <img width=380 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexbytesback&border_radius=10&theme=tokyonight" alt="top langs" />
+  <img width=380 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantkoirala465&border_radius=10&theme=tokyonight" alt="toplangs" />
 </div>
 
 <br/><br/>
@@ -70,7 +70,7 @@
 <div align="center">
   <h3>🎉 My Contributions 🎉</h3>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/alexbytesback/alexbytesback/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/prashantkoirala465/prashantkoirala465/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
