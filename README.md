@@ -80,8 +80,4 @@
 </h1>
 
 
-<div align="center">
-<a href='#' target='_blank'><img height='64' style='border:0px;height:64px;' src= "https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prashantkoirala" /></a>
-</div>
-
 
