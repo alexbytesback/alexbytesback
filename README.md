@@ -1,5 +1,4 @@
 
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1600">
 
 <h1 align="center">
@@ -58,7 +57,7 @@
     
   <img width=380 src="https://github-readme-stats.vercel.app/api?username=prashantkoirala465&show_icons=true&locale=en&border_radius=10&theme=tokyonight" />
   <br/>
-  <img width=380 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantkoirala465&border_radius=10&theme=tokyonight" alt="toplangs" />
+  <img width=380 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=prashantkoirala465&theme=tokyonight" alt="toplangs" />
 </div>
 
 <br/><br/>
